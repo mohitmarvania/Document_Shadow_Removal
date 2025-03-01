@@ -1,6 +1,6 @@
-# **Shadow Removal**
+# **Document Shadow Removal**
 
-Shadow Removal is a lightweight **Hybrid Document Shadow Removal** architecture inspired by recent research on high-resolution shadow removal. The architecture is inspired from the 2 recent research papers on high-resolution shadow removal:
+Document Shadow Removal is a lightweight **Hybrid Document Shadow Removal** architecture inspired by recent research on high-resolution shadow removal. The architecture is inspired from the 2 recent research papers on high-resolution shadow removal:
 
 **Inspired by the following research papers:**
 1. SHARDS: Efficient SHAdow Removal using Dual Stage Network for High-Resolution Images
