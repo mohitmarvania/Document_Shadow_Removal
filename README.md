@@ -46,8 +46,8 @@ Each image is resize to a target resolution of 1024x1024 during data loading.
 ## Usage
 1. Clone the Repository:
 ```
-git clone https://github.com/mohitmarvania/Shadow_Removal.git
-cd Shadow_Removal
+git clone https://github.com/mohitmarvania/Document_Shadow_Removal.git
+cd Document_Shadow_Removal
 ```
 
 2. Prepare the Dataset:
