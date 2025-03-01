@@ -53,6 +53,7 @@ cd Document_Shadow_Removal
 2. Prepare the Dataset:
 Place the SD7K dataset in the repository root, ensuring it follows the directory structure mentioned above.
 
+
 3. Train the Model:
 Run the main training script:
 ```
