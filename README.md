@@ -55,7 +55,7 @@ Place the SD7K dataset in the repository root, ensuring it follows the directory
 
 
 3. Train the Model:
-Run the main training script:
+Run the main training script -
 ```
 python main.py
 ``` 
